@@ -1,7 +1,7 @@
 **Project Title:**
 Analyzing EV Impact on GHG & Petroleum Reduction in NYC through Data Mining
 
-https://raw.githubusercontent.com/bhavanabraj/Electronic-Vehicle-Emission--New-York/main/Underlining%20NYSERDA%20Motivation.png
+![title](https://raw.githubusercontent.com/bhavanabraj/Electronic-Vehicle-Emission--New-York/main/Underlining%20NYSERDA%20Motivation.png)
 
 
 **Objectives:**
