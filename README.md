@@ -17,4 +17,4 @@ Cluster analysis to evaluate EV performance.
 Descriptive and Prescriptive analysis for broader insights.
 
 
-![1](https://raw.githubusercontent.com/bhavanabraj/Electronic-Vehicle-Emission--New-York/main/1.png)
+![1](https://raw.githubusercontent.com/bhavanabraj/Electronic-Vehicle-Emission--New-York/main/Cluster-%20BEV-PHEV.png)
