@@ -1,5 +1,5 @@
 **Project Title:**
-Analyzing EV Impact on GHG & Petroleum Reduction in NYC through Data Mining
+Analyzing the Effects of Electric Vehicles on Greenhouse Gas Emissions and Petroleum Reduction in New York City through Data Mining
 
 ![title](https://raw.githubusercontent.com/bhavanabraj/Electronic-Vehicle-Emission--New-York/main/Underlining%20NYSERDA%20Motivation.png)
 
