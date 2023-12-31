@@ -8,7 +8,7 @@ Analyzing the Effects of Electric Vehicles on Greenhouse Gas Emissions and Petro
 Utilizing Cluster Analysis to evaluate Electric Vehicle Varieties and Manufacturers' Impact on emissions reduction, and extending urban Data Insights to uncover trends applicable on a wider Scale.
 
 
-![10](https://github.com/abhinav14kr/Electronic_Vehicular_Emission_NY/assets/139970672/1624e716-008e-4bc8-af2d-d3dc7e2bb054)
+![10](https://raw.githubusercontent.com/bhavanabraj/Electronic-Vehicle-Emission--New-York/main/NYSERDA%20Metrics%20vs%20Actual%20Performance%20Comparison.jpg)
 
 
 
